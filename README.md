@@ -46,7 +46,7 @@ This repo contain terraform code to spin 1 centos8 server on selected/all cloud 
 #### GCP
 ```
     # GCP project id
-    gcp_project-id = "my-project"  
+    gcp_project_id = "my-project"  
     
     # GCP region
     gcp_region = "europe-west2"
